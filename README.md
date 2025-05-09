@@ -1,2 +1,0 @@
-# FiveM
-Server FiveM
