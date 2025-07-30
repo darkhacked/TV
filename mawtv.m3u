@@ -1,8 +1,8 @@
-=========================================== EPG Guides ===========================================
+
 #EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml, https://xmltv.tvkaista.net/guides/tv.trueid.net.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml , https://iptv36.vercel.app/epg.xml,https://tinyurl.com/thaiepg,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://iptv36.vercel.app/epg.xml, https://xmltv.tvkaista.net/guides/tv.trueid.net.xml, https://xmltv.tvkaista.net/guides/tv.trueid.net.xml , https://www.bevy.be/bevyfiles/thailand.xml.txt , https://www.bevy.be/bevyfiles/thailandpremium.xml.gz , https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.bevy.be/bevyfiles/indiapremium1.xml, https://www.bevy.be/bevyfiles/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://www.bevy.be/bevyfiles/australia.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://www.bevy.be/bevyfiles/norway.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.bevy.be/bevyfiles/canadapremium.xml, https://www.bevy.be/bevyfiles/france.xml, https://www.bevy.be/bevyfiles/germanypremium2.xml, https://www.bevy.be/bevyfiles/switzerland.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/romania.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/sweden.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://www.bevy.be/bevyfiles/serbia.xml, https://www.bevy.be/bevyfiles/denmark.xml, https://www.bevy.be/bevyfiles/argentina.xml, https://www.bevy.be/bevyfiles/hongkong.xml, https://www.bevy.be/bevyfiles/hongkongpremium.xml, https://www.bevy.be/bevyfiles/mexico.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/belgium.xml, https://www.bevy.be/bevyfiles/belgiumpremium.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/taiwanpremium.xml, https://www.bevy.be/bevyfiles/arabiapremium2.xml, https://www.bevy.be/bevyfiles/arabiapremiumeng.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml" refresh="3600"
 
 
-=========================================== MONOMAX ===========================================
+
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhwCkiStDcZU4KbFreFFtdDux_5yrPZ97GQ&s" group-title="MONOMAX"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax03.png" group-title="ช่องกีฬาไทย",MONOMAX3
@@ -11,7 +11,7 @@
 https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8
 
 
-=========================================== MUTV ===========================================
+
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE" group-title="MUTV"
 
 	
@@ -21,7 +21,7 @@ http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:BD:7C:49&stream=140303&
 #EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="MUTV",MUTV
 http://cord-cutter.net:8080/hq3y4G/234247/53717
 
-=========================================== 🔴🔵WORLDCUP CLUB🔵🔴 ===========================================
+
 #EXTINF:-1 group-logo="https://i.pinimg.com/474x/b4/99/4e/b4994ee2a8d32a903fd6114fc73f5ee1.jpg" group-title="🔴🔵WORLDCUP CLUB🔵🔴"
 
 																								  
@@ -113,7 +113,7 @@ http://tigerott.com:8080/fullpack15months354/213907856/539659
 
 
 
-=========================================== LIVE_EVEN ===========================================
+
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" group-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg" 
 
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN3
@@ -131,7 +131,7 @@ https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/
 #KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
 
-=========================================== 3BBGIGATV ===========================================
+
 #EXTINF:-1 group-logo="https://img2.pic.in.th/pic/3BB-GIGATV.png" 
 
 
@@ -360,7 +360,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 
 
-======================================================= ดิจิตอล ทีวี =======================================================
+
 #EXTINF:-1 group-logo="https://img2.pic.in.th/pic/Digital_TV.png"
 
 
@@ -464,7 +464,7 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 												   
 																																																												 
 
-======================================= True Visions =======================================
+
 #EXTINF:-1 group-title="True Visions" group-logo="https://img2.pic.in.th/pic/TRUE.png" 
 												   
 																																																									  
@@ -618,7 +618,7 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein6/playlist.m3u8
 
 
 
-============================================ AISPLAY SPORTS ============================================
+
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyHLLVJ07ItkvKANmLKiqH4TcqpbianCaXA&s"
 
 
@@ -637,7 +637,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/DASH/
 																																		 
 
 
-======================================== Movies&Series ========================================
+
 #EXTINF:-1 group-title="Movies&Series" group-logo="https://img5.pic.in.th/file/secure-sv1/Movies_TV.jpg"
 																	   
 
@@ -657,7 +657,7 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 														
 																	   
 
-======================================== ช่องสารคดีรอบโลก ========================================
+
 #EXTINF:-1  group-title="ช่องสารคดีรอบโลก" group-logo="https://mma.prnewswire.com/media/460785/nature_logo.jpg?p=facebook"
 																	   
 
@@ -719,7 +719,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d
 
 
 	
-======================================== MVTV ========================================
+
 #EXTINF:-1  group-title="MVTV" group-logo="https://img2.pic.in.th/pic/MVTV.png"
 
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png" group-title="MVTV",MV CHANNEL
@@ -840,7 +840,7 @@ https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
 
-=========================================== VollyVNL ===========================================
+
 #EXTINF:-1 group-title="VollyVNL" group-logo="https://www.nkplink.com/wp-content/uploads/2022/05/VNL-678x381.png"
 
 #EXTINF:-1 group-title="VollyVNL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Volleyball_Nations_League_Logo.png/800px-Volleyball_Nations_League_Logo.png",VollyVNL1
@@ -872,7 +872,7 @@ http://metalpow.site/VNL/VollyVNL9.m3u8
 
 
 
-======================================== Sky Sports ========================================
+
 #EXTINF:-1  group-title="Sky Sports" group-logo="https://yt3.googleusercontent.com/cbtke_go6zjnDOI5qlU86Wm6eK9wi_DyRWlC8H3OWTeFIOwjxfADaISX6xtIpf5UeCvGkFg-EQ=s900-c-k-c0x00ffffff-no-rj"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="Sky Sports", SKY SPORTS
@@ -1013,7 +1013,7 @@ https://a1xs.vip/2000013
 #EXTINF:-1  tvg-name="Sky Sports+ FHD" tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sky Sports" radio="false",Sky Sports+ FHD
 https://a1xs.vip/2000012
 
-=========================================== ESPN ===========================================
+
 #EXTINF:-1 group-logo="https://www.sportico.com/wp-content/uploads/2020/07/ESPN.jpg?w=1024" 
 
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="ESPN", ESPN 🇨🇴
@@ -1089,7 +1089,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 
 
-======================================================= Dazn =======================================================
+
 #EXTINF:-1 group-logo="https://img5.pic.in.th/file/secure-sv1/DAZN.png"
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-chno="214" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-1-es.png" group-title="DAZN",DAZN 1
@@ -1238,7 +1238,7 @@ http://kstv.us:8080/tH300gvHff/8606073792/48448
 																										  
 
 
-=========================================== ⚽ SPORTS WORLD ===========================================
+
 #EXTINF:-1 group-title="⚽ SPORTS WORLD" group-logo="https://img5.pic.in.th/file/secure-sv1/SPORTS-WORLD.png"
 
 
@@ -1299,12 +1299,12 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
-=========================================================== Sports
+
 #EXTINF:-1 group-title="⚽ SPORTS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" ,Astro Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:71:2D:F1&stream=918984&extension=m3u8
 	
-=========================================================== Sports
+
 
 
 
@@ -1846,7 +1846,7 @@ https://metalpow.site/Sports-world/wwenetwork-us.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-=========================================== SpoTV ===========================================
+
 #EXTINF:-1 group-logo="https://cms.cignal.tv/Upload/Thumbnails/Spotv%20Highlights%20Thumbnail.jpg" 
 
 #EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SpoTV",SpoTV
@@ -1876,7 +1876,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 
 
-======================================================= ZIGGO SPORT =======================================================
+
 #EXTINF:-1 group-title="ZIGGO SPORT" group-logo="https://play-lh.googleusercontent.com/75Fr-2Auh1w8RKb8NkdxDZpAnM1Xgnt50ra9IAJEiybw0oPeZMdVzMZvj8LFwo9hyZDt"
 
 #EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Ziggo_Sport.svg/revision/latest?cb=20180812125626" group-title="ZIGGO SPORT", ZIGGO SPORT 🟠 🇳🇱
@@ -1912,7 +1912,7 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 
 
 
- <==========Fox Sports==========>
+ <
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" 
 
   #EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="FOX SPORTS.mx" tvg-logo="https://i.imgur.com/xhPxmPo.png" group-title="Fox Sports",Fox Sports
@@ -1988,7 +1988,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
  
 
 
-======================================================= TNT SPORT =======================================================
+
 #EXTINF:-1 group-title="TNT SPORTS" group-logo="https://img5.pic.in.th/file/secure-sv1/TNT-Sports.jpeg"
 
 #EXTINF:-1 group-title="TNT SPORTS" tvg-id="bt-sport1" tvg-logo="https://images.metadata.sky.com/pd-image/2b427b6e-1687-4c9c-bef8-a3f03f312f6c/16-9",🇬🇧 TNT SPORTS 1
@@ -2022,7 +2022,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
-========================================== TSN SPORT ==========================================
+
 #EXTINF:-1 group-title="TSN SPORT" group-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWfy32XbfXD_uMrCz9iLx6YBWHA6NadxchMRyeC91Xvdt5Aav2OEztV40&s=10" group-title="TSN SPORT", TSN 1 🇨🇦
@@ -2086,7 +2086,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 
-========================================== GO3 Sport ==========================================
+
 #EXTINF:-1 group-title="GO3 Sport" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png"
 #EXTINF:-1 tvg-id="Go3Sport Open" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="GO3 Sport",Go3 Sport Open
 #http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=7jfxcz8
@@ -2127,7 +2127,7 @@ https://cdnlb.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 
 
 
-======================================================= FIFA+ =======================================================
+
 #EXTINF:-1 group-title="FIFA+" group-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg"
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg" group-title="FIFA+" , FIFA+ 🇺🇸
@@ -2173,7 +2173,7 @@ https://jmp2.uk/sam-KRBD1900001Y2.m3u8
 
 
 	
-=========================================== Sony Sports Network ===========================================
+
 #EXTINF:-1 group-title="Sony Sports Network" group-logo="https://img5.pic.in.th/file/secure-sv1/Sony-Ten-Sport.jpg"
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHt1dAeRpl8mAkFnveSkAQL9Z6e9QrN2G7pA&s" group-title="Sony Sports Network",SONY SPORTS TEN 1
@@ -2260,7 +2260,7 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-======================================================= CHAMPIONS LEAGUE =======================================================
+
 #EXTINF:-1 group-logo="https://img5.pic.in.th/file/secure-sv1/UEFA_Champions_League.png"
 
 
@@ -2316,7 +2316,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manife
 
 
 
-=========================================== ข่าวต่างประเทศ ===========================================
+
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" group-logo="https://www.nia.go.th/static/images/world-news.png" 
 
 
@@ -2354,7 +2354,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
-======China🇨🇳=====
+
 #EXTINF:-1 group-logo="https://thaibizchina.com/wp-content/uploads/2023/09/image-93.png"
 
 #EXTINF:-1 tvg-id="99" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="🇨🇳🇹🇼🇭🇰| Mandarin", Celestial Movies (dens)
@@ -2441,7 +2441,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
 
-=========================================== 18+ ADULTS ONLY ===========================================
+
 #EXTINF:-1 group-title="18+ ADULTS ONLY" group-logo="https://img5.pic.in.th/file/secure-sv1/Adult_18.jpg"
 	
 #EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="18+ ADULTS ONLY",Live Cams
