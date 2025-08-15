@@ -112,7 +112,6 @@ https://dolive.thaim3u.com/doolive4k-tv/football-play-4/playlist.m3u8?
 =========================================== MUTV ===========================================
 #EXTINF:-1 group-logo=\"https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE\" group-title=\"MUTV\"
 
-\t
 #EXTINF:-1 group-title=\"MUTV\" tvg-logo=\"https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE\" ,MUTV HD
 http://tuga2022.ddns.net:8080/play/live.php?mac=00:1A:79:BD:7C:49&stream=140303&extension=ts&play_token=QhrQsiOio9
 
@@ -567,12 +566,12 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-tennis/playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-\t
+
 #EXTINF:-1 group-title=\"True Visions\" tvg-logo=\"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp\",True SportHD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-\t
+
 #EXTINF:-1 group-title=\"True Visions\" tvg-logo=\"https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp\",True SportHD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
@@ -772,7 +771,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d
 
 
 
-\t
+
 ======================================== MVTV ========================================
 #EXTINF:-1  group-title=\"MVTV\" group-logo=\"https://img2.pic.in.th/pic/MVTV.png\"
 
@@ -1348,7 +1347,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #EXTINF:-1 group-title=\"⚽ SPORTS WORLD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png\" ,Astro Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:71:2D:F1&stream=918984&extension=m3u8
-\t
+
 =========================================================== Sports
 
 
@@ -1870,7 +1869,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo=\"https://image.24hsport.tv/tvs/117.png\" group-title=\"⚽ SPORTS WORLD\",WWE Network
 #EXTVLCOPT:http-user-agent=OTT TV/1.7.1.6 (Linux;Android 9; x1qb43) VLC/3.0.18 Vetinari LibVLC/3.0.18
 https://metalpow.site/Sports-world/wwenetwork-us.m3u8
-\t
+
 #EXTINF:-1 tvg-logo=\"https://image.24hsport.tv/tvs/117.png\" group-title=\"⚽ SPORTS WORLD\",WWE Network (Peacocktv)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
@@ -2212,7 +2211,7 @@ https://jmp2.uk/sam-ITBD1000002HF.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://jmp2.uk/sam-KRBD1900001Y2.m3u8
 
-\t
+
 =========================================== Sony Sports Network ===========================================
 #EXTINF:-1 group-title=\"Sony Sports Network\" group-logo=\"https://img5.pic.in.th/file/secure-sv1/Sony-Ten-Sport.jpg\"
 
@@ -2483,7 +2482,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 =========================================== 18+ ADULTS ONLY ===========================================
 #EXTINF:-1 group-title=\"18+ ADULTS ONLY\" group-logo=\"https://img5.pic.in.th/file/secure-sv1/Adult_18.jpg\"
-\t
+
 #EXTINF:-1 tvg-id=\"\" tvg-name=\"Live Cams\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"18+ ADULTS ONLY\",Live Cams
 http://live.adultiptv.net/livecams.m3u8
 
